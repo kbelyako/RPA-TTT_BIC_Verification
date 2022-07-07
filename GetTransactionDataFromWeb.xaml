@@ -5,7 +5,7 @@
   <mva:VisualBasic.Settings>
     <x:Null />
   </mva:VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>1192,3355</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>1259,3355</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>Initialization_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <scg:List x:TypeArguments="x:String" Capacity="74">
@@ -427,13 +427,13 @@
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
     </bz:UnZipFile>
-    <ui:InvokeCode ContinueOnError="{x:Null}" Code="            DataTable dt = new DataTable();&#xA;            dt.Columns.Add(&quot;BIC&quot;);&#xA;            dt.Columns.Add(&quot;pName&quot;);&#xA;&#xA;            XElement xElement = XElement.Load(in_pathToXML);&#xA;&#xA;            var data = xElement.Elements();         &#xA;            string pName;&#xA;            foreach (var item in data)&#xA;            {               &#xA;                string bic = item.Attribute(&quot;BIC&quot;).Value;&#xA;                var nodes = item.Nodes();&#xA;                XElement info = XElement.Parse(nodes.ElementAt(0).ToString());&#xA;                pName = info.Attribute(&quot;NameP&quot;).Value;      &#xA;                string[] o = { bic, pName };&#xA;                dt.Rows.Add(o);           &#xA;            }&#xA;            out_DT_Res=dt;&#xA;            System.Console.WriteLine(&quot;NumOfRows in parsing result DT=&quot; + out_DT_Res.Rows.Count.ToString());" DisplayName="Invoke code read and parse XML" sap:VirtualizedContainerService.HintSize="937,164" sap2010:WorkflowViewState.IdRef="InvokeCode_1" Language="CSharp">
+    <ui:InvokeCode ContinueOnError="{x:Null}" Code="            DataTable dt = new DataTable();&#xD;&#xA;            dt.Columns.Add(&quot;BIC&quot;);&#xD;&#xA;            dt.Columns.Add(&quot;pName&quot;);&#xD;&#xA;&#xD;&#xA;            XElement xElement = XElement.Load(in_pathToXML);&#xD;&#xA;&#xD;&#xA;            var data = xElement.Elements();         &#xD;&#xA;            string pName;&#xD;&#xA;            foreach (var item in data)&#xD;&#xA;            {               &#xD;&#xA;                string bic = item.Attribute(&quot;BIC&quot;).Value;&#xD;&#xA;                var nodes = item.Nodes();&#xD;&#xA;                XElement info = XElement.Parse(nodes.ElementAt(0).ToString());&#xD;&#xA;                pName = info.Attribute(&quot;NameP&quot;).Value;      &#xD;&#xA;                string[] o = { bic, pName };&#xD;&#xA;                dt.Rows.Add(o);           &#xD;&#xA;            }&#xD;&#xA;            out_DT_Res=dt;&#xD;&#xA;            System.Console.WriteLine(&quot;NumOfRows in parsing result DT=&quot; + out_DT_Res.Rows.Count.ToString());" DisplayName="Invoke code read and parse XML" sap:VirtualizedContainerService.HintSize="937,164" sap2010:WorkflowViewState.IdRef="InvokeCode_1" Language="CSharp">
       <ui:InvokeCode.Arguments>
         <InArgument x:TypeArguments="x:String" x:Key="in_pathToXML">[Directory.GetFiles(in_Config("sExtractZIP_Path").ToString)(0)]</InArgument>
         <OutArgument x:TypeArguments="sd:DataTable" x:Key="out_DT_Res">[dtDatafromXML]</OutArgument>
       </ui:InvokeCode.Arguments>
     </ui:InvokeCode>
-    <ui:ForEach x:TypeArguments="x:String" CurrentIndex="{x:Null}" sap2010:Annotation.AnnotationText="Delete XML file&#xD;&#xA;" DisplayName="For Each" sap:VirtualizedContainerService.HintSize="937,305" sap2010:WorkflowViewState.IdRef="ForEach`1_1" Values="[Directory.GetFiles(in_Config(&quot;sExtractZIP_Path&quot;).ToString)]">
+    <ui:ForEach x:TypeArguments="x:String" CurrentIndex="{x:Null}" sap2010:Annotation.AnnotationText="Delete XML file&#xA;" DisplayName="For Each" sap:VirtualizedContainerService.HintSize="937,305" sap2010:WorkflowViewState.IdRef="ForEach`1_1" Values="[Directory.GetFiles(in_Config(&quot;sExtractZIP_Path&quot;).ToString)]">
       <ui:ForEach.Body>
         <ActivityAction x:TypeArguments="x:String">
           <ActivityAction.Argument>
@@ -456,7 +456,7 @@
       </sap:WorkflowViewStateService.ViewState>
     </ui:ForEach>
     <ui:Delete ContinueOnError="{x:Null}" DisplayName="Delete ZIP file" sap:VirtualizedContainerService.HintSize="937,79" sap2010:WorkflowViewState.IdRef="Delete_3" Path="[in_Config(&quot;sZIPFileFullPath&quot;).ToString]" />
-    <ui:InvokeCode ContinueOnError="{x:Null}" Code="    var resDT= io_DT_Res.AsEnumerable()&#xA;                       .Where((row, index) =&gt; index &gt;= 199)&#xA;                       .Where((row, index) =&gt; index &lt;= 449)&#xA;                       .CopyToDataTable();&#xA;&#x9;io_DT_Res=resDT;&#xA;&#x9;" DisplayName="Invoke code Remove not needed Rows " sap:VirtualizedContainerService.HintSize="937,164" sap2010:WorkflowViewState.IdRef="InvokeCode_2" Language="CSharp">
+    <ui:InvokeCode ContinueOnError="{x:Null}" Code="    var resDT= io_DT_Res.AsEnumerable()&#xD;&#xA;                       .Where((row, index) =&gt; index &gt;= 199)&#xD;&#xA;                       .Where((row, index) =&gt; index &lt;= 449)&#xD;&#xA;                       .CopyToDataTable();&#xD;&#xA;&#x9;io_DT_Res=resDT;&#xD;&#xA;&#x9;" DisplayName="Invoke code Remove not needed Rows " sap:VirtualizedContainerService.HintSize="937,164" sap2010:WorkflowViewState.IdRef="InvokeCode_2" Language="CSharp">
       <ui:InvokeCode.Arguments>
         <InOutArgument x:TypeArguments="sd:DataTable" x:Key="io_DT_Res">[dtDatafromXML]</InOutArgument>
       </ui:InvokeCode.Arguments>
@@ -482,9 +482,9 @@
         </Sequence>
       </If.Else>
     </If>
-    <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="937,51" sap2010:WorkflowViewState.IdRef="CommentOut_7">
+    <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="937,51" sap2010:WorkflowViewState.IdRef="CommentOut_8">
       <ui:CommentOut.Body>
-        <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="376,207" sap2010:WorkflowViewState.IdRef="Sequence_32">
+        <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="376,207" sap2010:WorkflowViewState.IdRef="Sequence_33">
           <sap:WorkflowViewStateService.ViewState>
             <scg:Dictionary x:TypeArguments="x:String, x:Object">
               <x:Boolean x:Key="IsExpanded">True</x:Boolean>

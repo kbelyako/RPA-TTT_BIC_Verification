@@ -11,7 +11,7 @@
   <mva:VisualBasic.Settings>
     <x:Null />
   </mva:VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>998,3246</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>1259,3246</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>GetTransactionData_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <scg:List x:TypeArguments="x:String" Capacity="42">
@@ -166,9 +166,9 @@
               <InArgument x:TypeArguments="sd:DataTable">[DirectCast(in_Config.Item("dtDatafromXML"), DataTable)]</InArgument>
             </Assign.Value>
           </Assign>
-          <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="334,51" sap2010:WorkflowViewState.IdRef="CommentOut_20">
+          <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="334,51" sap2010:WorkflowViewState.IdRef="CommentOut_21">
             <ui:CommentOut.Body>
-              <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="376,179" sap2010:WorkflowViewState.IdRef="Sequence_66">
+              <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="376,179" sap2010:WorkflowViewState.IdRef="Sequence_67">
                 <sap:WorkflowViewStateService.ViewState>
                   <scg:Dictionary x:TypeArguments="x:String, x:Object">
                     <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -190,7 +190,7 @@
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
           </ui:CommentOut>
-          <ui:InvokeCode ContinueOnError="{x:Null}" Code="            DataTable dt = new DataTable();&#xA;            dt.Columns.Add(&quot;Name&quot;,typeof(String));&#xA;&#x9;&#x9;&#x9;dt.Columns.Add(&quot;City&quot;,typeof(String));&#xA;&#x9;&#x9;&#x9;dt.Columns.Add(&quot;Address&quot;,typeof(String));&#xA;&#x9;&#x9;&#x9;dt.Columns.Add(&quot;Intermediary Account&quot;,typeof(String));&#xA;&#x9;&#x9;&#x9;dt.Columns.Add(&quot;OKPO&quot;,typeof(String));&#xA;&#x9;&#x9;&#x9;dt.Columns.Add(&quot;BIC&quot;,typeof(String));&#xA;&#x9;&#x9;&#x9;dt.Columns.Add(&quot;Entered&quot;,typeof(String));&#xA;&#x9;&#x9;&#x9;&#xA;&#xA;            out_DT_Res=dt;&#xA;            System.Console.WriteLine(&quot;NumOfRows in parsing result DT=&quot; + out_DT_Res.Rows.Count.ToString());" DisplayName="Create and prepare Result DataTable " sap:VirtualizedContainerService.HintSize="334,164" sap2010:WorkflowViewState.IdRef="InvokeCode_1" Language="CSharp">
+          <ui:InvokeCode ContinueOnError="{x:Null}" Code="            DataTable dt = new DataTable();&#xD;&#xA;            dt.Columns.Add(&quot;Name&quot;,typeof(String));&#xD;&#xA;&#x9;&#x9;&#x9;dt.Columns.Add(&quot;City&quot;,typeof(String));&#xD;&#xA;&#x9;&#x9;&#x9;dt.Columns.Add(&quot;Address&quot;,typeof(String));&#xD;&#xA;&#x9;&#x9;&#x9;dt.Columns.Add(&quot;Intermediary Account&quot;,typeof(String));&#xD;&#xA;&#x9;&#x9;&#x9;dt.Columns.Add(&quot;OKPO&quot;,typeof(String));&#xD;&#xA;&#x9;&#x9;&#x9;dt.Columns.Add(&quot;BIC&quot;,typeof(String));&#xD;&#xA;&#x9;&#x9;&#x9;dt.Columns.Add(&quot;Entered&quot;,typeof(String));&#xD;&#xA;&#x9;&#x9;&#x9;&#xD;&#xA;&#xD;&#xA;            out_DT_Res=dt;&#xD;&#xA;        // System.Console.WriteLine(&quot;NumOfRows in out_DT_Res=&quot; + out_DT_Res.Rows.Count.ToString());" DisplayName="Create and prepare Result DataTable " sap:VirtualizedContainerService.HintSize="334,164" sap2010:WorkflowViewState.IdRef="InvokeCode_1" Language="CSharp">
             <ui:InvokeCode.Arguments>
               <OutArgument x:TypeArguments="sd:DataTable" x:Key="out_DT_Res">[dt_Result]</OutArgument>
             </ui:InvokeCode.Arguments>
