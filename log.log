@@ -1,0 +1,1946 @@
+﻿[04.07.2022 20:18:58]Process has started started on DESKTOP-9NG67VR
+[04.07.2022 20:19:01]Start GetZIP
+[04.07.2022 20:19:10]ZIP file alredy exist and will be replaced
+[04.07.2022 20:19:10]Start downloading ZIP file from web
+[04.07.2022 20:19:10]End downloading ZIP file from web
+[04.07.2022 20:19:10]End GetZIP
+[04.07.2022 20:19:13]Data from https://www.cbr.ru/PSystem/payment_system/#a_44305 has been successfully downloaded and parsed. Total number of rows to process=450
+[04.07.2022 20:19:14]Processing 042748877, started  transaction № 1, try №0
+[04.07.2022 20:19:17]042748877 successfully  added
+[04.07.2022 20:19:17]Processing 042748877, finished transaction № 1, try №0
+[04.07.2022 20:19:18]Transaction Successful.
+[04.07.2022 20:19:19]Processing 045773804, started  transaction № 2, try №0
+[04.07.2022 20:19:20]045773804 successfully  added
+[04.07.2022 20:19:20]Processing 045773804, finished transaction № 2, try №0
+[04.07.2022 20:19:20]Transaction Successful.
+[04.07.2022 20:19:21]Processing 045805722, started  transaction № 3, try №0
+[04.07.2022 20:19:22]045805722 excluded due to Entered year<2000, sEntered year=1995
+[04.07.2022 20:19:22]Processing 045805722, finished transaction № 3, try №0
+[04.07.2022 20:19:23]Transaction Successful.
+[04.07.2022 20:19:24]Processing 044525755, started  transaction № 4, try №0
+[04.07.2022 20:19:26]044525755 successfully  added
+[04.07.2022 20:19:26]Processing 044525755, finished transaction № 4, try №0
+[04.07.2022 20:19:26]Transaction Successful.
+[04.07.2022 20:19:27]Processing 044525776, started  transaction № 5, try №0
+[04.07.2022 20:19:29]044525776 successfully  added
+[04.07.2022 20:19:29]Processing 044525776, finished transaction № 5, try №0
+[04.07.2022 20:19:29]Transaction Successful.
+[04.07.2022 20:19:30]Processing 044525789, started  transaction № 6, try №0
+[04.07.2022 20:19:31]044525789 successfully  added
+[04.07.2022 20:19:31]Processing 044525789, finished transaction № 6, try №0
+[04.07.2022 20:19:32]Transaction Successful.
+[04.07.2022 20:19:33]Processing 044525857, started  transaction № 7, try №0
+[04.07.2022 20:19:35]044525857 successfully  added
+[04.07.2022 20:19:35]Processing 044525857, finished transaction № 7, try №0
+[04.07.2022 20:19:36]Transaction Successful.
+[04.07.2022 20:19:37]Processing 044525895, started  transaction № 8, try №0
+[04.07.2022 20:19:38]044525895 successfully  added
+[04.07.2022 20:19:38]Processing 044525895, finished transaction № 8, try №0
+[04.07.2022 20:19:39]Transaction Successful.
+[04.07.2022 20:19:39]Processing 044525957, started  transaction № 9, try №0
+[04.07.2022 20:19:41]044525957 successfully  added
+[04.07.2022 20:19:41]Processing 044525957, finished transaction № 9, try №0
+[04.07.2022 20:19:41]Transaction Successful.
+[04.07.2022 20:19:42]Processing 044525993, started  transaction № 10, try №0
+[04.07.2022 20:19:44]044525993 successfully  added
+[04.07.2022 20:19:44]Processing 044525993, finished transaction № 10, try №0
+[04.07.2022 20:19:44]Transaction Successful.
+[04.07.2022 20:19:45]Processing 044525398, started  transaction № 11, try №0
+[04.07.2022 20:19:46]044525398 successfully  added
+[04.07.2022 20:19:46]Processing 044525398, finished transaction № 11, try №0
+[04.07.2022 20:19:47]Transaction Successful.
+[04.07.2022 20:19:48]Processing 041012731, started  transaction № 12, try №0
+[04.07.2022 20:19:49]041012731 successfully  added
+[04.07.2022 20:19:49]Processing 041012731, finished transaction № 12, try №0
+[04.07.2022 20:19:50]Transaction Successful.
+[04.07.2022 20:19:51]Processing 042406780, started  transaction № 13, try №0
+[04.07.2022 20:19:52]042406780 successfully  added
+[04.07.2022 20:19:52]Processing 042406780, finished transaction № 13, try №0
+[04.07.2022 20:19:53]Transaction Successful.
+[04.07.2022 20:19:54]Processing 042618783, started  transaction № 14, try №0
+[04.07.2022 20:19:55]042618783 successfully  added
+[04.07.2022 20:19:55]Processing 042618783, finished transaction № 14, try №0
+[04.07.2022 20:19:56]Transaction Successful.
+[04.07.2022 20:19:56]Processing 042520700, started  transaction № 15, try №0
+[04.07.2022 20:19:58]042520700 successfully  added
+[04.07.2022 20:19:58]Processing 042520700, finished transaction № 15, try №0
+[04.07.2022 20:19:59]Transaction Successful.
+[04.07.2022 20:19:59]Processing 048702739, started  transaction № 16, try №0
+[04.07.2022 20:20:01]048702739 successfully  added
+[04.07.2022 20:20:01]Processing 048702739, finished transaction № 16, try №0
+[04.07.2022 20:20:01]Transaction Successful.
+[04.07.2022 20:20:02]Processing 045805772, started  transaction № 17, try №0
+[04.07.2022 20:20:04]045805772 successfully  added
+[04.07.2022 20:20:04]Processing 045805772, finished transaction № 17, try №0
+[04.07.2022 20:20:04]Transaction Successful.
+[04.07.2022 20:20:05]Processing 044525300, started  transaction № 18, try №0
+[04.07.2022 20:20:06]044525300 successfully  added
+[04.07.2022 20:20:06]Processing 044525300, finished transaction № 18, try №0
+[04.07.2022 20:20:07]Transaction Successful.
+[04.07.2022 20:20:08]Processing 043083002, started  transaction № 19, try №0
+[04.07.2022 20:20:09]043083002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:20:09]Processing 043083002, finished transaction № 19, try №0
+[04.07.2022 20:20:10]Transaction Successful.
+[04.07.2022 20:20:11]Processing 044588002, started  transaction № 20, try №0
+[04.07.2022 20:20:12]044588002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:20:12]Processing 044588002, finished transaction № 20, try №0
+[04.07.2022 20:20:13]Transaction Successful.
+[04.07.2022 20:20:14]Processing 044703000, started  transaction № 21, try №0
+[04.07.2022 20:20:15]044703000 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:20:15]Processing 044703000, finished transaction № 21, try №0
+[04.07.2022 20:20:16]Transaction Successful.
+[04.07.2022 20:20:17]Processing 047681002, started  transaction № 22, try №0
+[04.07.2022 20:20:18]047681002 excluded due to name difference, 
+pName=ПУ БАНКА РОССИИ ВОСТОЧНОЕ
+sName from BKIP=РКЦ МОНЧЕГОРСК
+[04.07.2022 20:20:18]Processing 047681002, finished transaction № 22, try №0
+[04.07.2022 20:20:19]Transaction Successful.
+[04.07.2022 20:20:20]Processing 043683002, started  transaction № 23, try №0
+[04.07.2022 20:20:21]043683002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:20:21]Processing 043683002, finished transaction № 23, try №0
+[04.07.2022 20:20:21]Transaction Successful.
+[04.07.2022 20:20:22]Processing 046510000, started  transaction № 24, try №0
+[04.07.2022 20:20:23]046510000 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:20:23]Processing 046510000, finished transaction № 24, try №0
+[04.07.2022 20:20:24]Transaction Successful.
+[04.07.2022 20:20:25]Processing 044587002, started  transaction № 25, try №0
+[04.07.2022 20:20:26]044587002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:20:26]Processing 044587002, finished transaction № 25, try №0
+[04.07.2022 20:20:27]Transaction Successful.
+[04.07.2022 20:20:28]Processing 040881002, started  transaction № 26, try №0
+[04.07.2022 20:20:29]040881002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:20:29]Processing 040881002, finished transaction № 26, try №0
+[04.07.2022 20:20:30]Transaction Successful.
+[04.07.2022 20:20:31]Processing 040884002, started  transaction № 27, try №0
+[04.07.2022 20:20:32]040884002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:20:32]Processing 040884002, finished transaction № 27, try №0
+[04.07.2022 20:20:33]Transaction Successful.
+[04.07.2022 20:20:34]Processing 040885002, started  transaction № 28, try №0
+[04.07.2022 20:20:35]040885002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:20:36]Processing 040885002, finished transaction № 28, try №0
+[04.07.2022 20:20:36]Transaction Successful.
+[04.07.2022 20:20:37]Processing 048337000, started  transaction № 29, try №0
+[04.07.2022 20:20:38]048337000 excluded due to name difference, 
+pName=РКЦ ТЕРЕК
+sName from BKIP=ПУ БАНКА РОССИИ ТАЕЖНОЕ
+[04.07.2022 20:20:38]Processing 048337000, finished transaction № 29, try №0
+[04.07.2022 20:20:39]Transaction Successful.
+[04.07.2022 20:20:41]Processing 041946000, started  transaction № 30, try №0
+[04.07.2022 20:20:42]041946000 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:20:42]Processing 041946000, finished transaction № 30, try №0
+[04.07.2022 20:20:43]Transaction Successful.
+[04.07.2022 20:20:43]Processing 047520000, started  transaction № 31, try №0
+[04.07.2022 20:20:45]047520000 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:20:45]Processing 047520000, finished transaction № 31, try №0
+[04.07.2022 20:20:46]Transaction Successful.
+[04.07.2022 20:20:46]Processing 042299002, started  transaction № 32, try №0
+[04.07.2022 20:20:48]042299002 excluded due to Entered year<2000, sEntered year=1995
+[04.07.2022 20:20:48]Processing 042299002, finished transaction № 32, try №0
+[04.07.2022 20:20:49]Transaction Successful.
+[04.07.2022 20:20:49]Processing 044782002, started  transaction № 33, try №0
+[04.07.2022 20:20:51]044782002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:20:51]Processing 044782002, finished transaction № 33, try №0
+[04.07.2022 20:20:52]Transaction Successful.
+[04.07.2022 20:20:53]Processing 041122002, started  transaction № 34, try №0
+[04.07.2022 20:20:54]041122002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:20:54]Processing 041122002, finished transaction № 34, try №0
+[04.07.2022 20:20:55]Transaction Successful.
+[04.07.2022 20:20:56]Processing 047980002, started  transaction № 35, try №0
+[04.07.2022 20:20:57]047980002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:20:57]Processing 047980002, finished transaction № 35, try №0
+[04.07.2022 20:20:58]Transaction Successful.
+[04.07.2022 20:20:59]Processing 049209000, started  transaction № 36, try №0
+[04.07.2022 20:21:00]049209000 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:21:00]Processing 049209000, finished transaction № 36, try №0
+[04.07.2022 20:21:01]Transaction Successful.
+[04.07.2022 20:21:01]Processing 047162000, started  transaction № 37, try №0
+[04.07.2022 20:21:03]047162000 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:21:03]Processing 047162000, finished transaction № 37, try №0
+[04.07.2022 20:21:03]Transaction Successful.
+[04.07.2022 20:21:04]Processing 041081002, started  transaction № 38, try №0
+[04.07.2022 20:21:06]041081002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:21:06]Processing 041081002, finished transaction № 38, try №0
+[04.07.2022 20:21:06]Transaction Successful.
+[04.07.2022 20:21:07]Processing 044715002, started  transaction № 39, try №0
+[04.07.2022 20:21:39]Exception.Source=Invoke ObtainDatafromBKIP workflow: Get Text  Name, Exception.Message=Could not find the UI element corresponding to this selector:
+<html app='chrome.exe' title='Поиск банка по БИК'/>
+<webctrl tag='TABLE'/>
+<webctrl rowName='Название*' tableCol='2' tag='TD'/>
+
+[04.07.2022 20:21:41]Processing 044715002, started  transaction № 39, try №1
+[04.07.2022 20:21:44]044715002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:21:44]Processing 044715002, finished transaction № 39, try №1
+[04.07.2022 20:21:44]Transaction Successful.
+[04.07.2022 20:21:45]Processing 044780002, started  transaction № 40, try №0
+[04.07.2022 20:21:47]044780002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:21:47]Processing 044780002, finished transaction № 40, try №0
+[04.07.2022 20:21:47]Transaction Successful.
+[04.07.2022 20:21:48]Processing 044781002, started  transaction № 41, try №0
+[04.07.2022 20:21:50]044781002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:21:50]Processing 044781002, finished transaction № 41, try №0
+[04.07.2022 20:21:51]Transaction Successful.
+[04.07.2022 20:21:52]Processing 045385002, started  transaction № 42, try №0
+[04.07.2022 20:21:53]045385002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:21:53]Processing 045385002, finished transaction № 42, try №0
+[04.07.2022 20:21:54]Transaction Successful.
+[04.07.2022 20:21:55]Processing 045386002, started  transaction № 43, try №0
+[04.07.2022 20:21:56]045386002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:21:56]Processing 045386002, finished transaction № 43, try №0
+[04.07.2022 20:21:57]Transaction Successful.
+[04.07.2022 20:21:57]Processing 044125002, started  transaction № 44, try №0
+[04.07.2022 20:21:59]044125002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:21:59]Processing 044125002, finished transaction № 44, try №0
+[04.07.2022 20:22:00]Transaction Successful.
+[04.07.2022 20:22:00]Processing 040507001, started  transaction № 45, try №0
+[04.07.2022 20:22:02]040507001 excluded due to name difference, 
+pName=ДАЛЬНЕВОСТОЧНОЕ ГУ БАНКА РОССИИ
+sName from BKIP=ПУ БАНКА РОССИИ СЕРТОЛОВСКОЕ
+[04.07.2022 20:22:02]Processing 040507001, finished transaction № 45, try №0
+[04.07.2022 20:22:03]Transaction Successful.
+[04.07.2022 20:22:03]Processing 045801002, started  transaction № 46, try №0
+[04.07.2022 20:22:05]045801002 excluded due to Entered year<2000, sEntered year=1996
+[04.07.2022 20:22:05]Processing 045801002, finished transaction № 46, try №0
+[04.07.2022 20:22:05]Transaction Successful.
+[04.07.2022 20:22:06]Processing 047182000, started  transaction № 47, try №0
+[04.07.2022 20:22:08]047182000 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:22:08]Processing 047182000, finished transaction № 47, try №0
+[04.07.2022 20:22:08]Transaction Successful.
+[04.07.2022 20:22:09]Processing 047583002, started  transaction № 48, try №0
+[04.07.2022 20:22:10]047583002 excluded due to Entered year<2000, sEntered year=1996
+[04.07.2022 20:22:10]Processing 047583002, finished transaction № 48, try №0
+[04.07.2022 20:22:11]Transaction Successful.
+[04.07.2022 20:22:12]Processing 048708000, started  transaction № 49, try №0
+[04.07.2022 20:22:13]048708000 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:22:13]Processing 048708000, finished transaction № 49, try №0
+[04.07.2022 20:22:14]Transaction Successful.
+[04.07.2022 20:22:15]Processing 040510000, started  transaction № 50, try №0
+[04.07.2022 20:22:16]040510000 excluded due to name difference, 
+pName=РКЦ НАХОДКА
+sName from BKIP=РКЦ ПЕЧОРА
+[04.07.2022 20:22:16]Processing 040510000, finished transaction № 50, try №0
+[04.07.2022 20:22:17]Transaction Successful.
+[04.07.2022 20:22:18]Processing 045795000, started  transaction № 51, try №0
+[04.07.2022 20:22:19]045795000 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:22:19]Processing 045795000, finished transaction № 51, try №0
+[04.07.2022 20:22:20]Transaction Successful.
+[04.07.2022 20:22:21]Processing 042980002, started  transaction № 52, try №0
+[04.07.2022 20:22:22]042980002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:22:22]Processing 042980002, finished transaction № 52, try №0
+[04.07.2022 20:22:23]Transaction Successful.
+[04.07.2022 20:22:24]Processing 047516000, started  transaction № 53, try №0
+[04.07.2022 20:22:25]047516000 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:22:25]Processing 047516000, finished transaction № 53, try №0
+[04.07.2022 20:22:26]Transaction Successful.
+[04.07.2022 20:22:26]Processing 041236002, started  transaction № 54, try №0
+[04.07.2022 20:22:28]041236002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:22:28]Processing 041236002, finished transaction № 54, try №0
+[04.07.2022 20:22:28]Transaction Successful.
+[04.07.2022 20:22:29]Processing 041280002, started  transaction № 55, try №0
+[04.07.2022 20:22:30]041280002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:22:30]Processing 041280002, finished transaction № 55, try №0
+[04.07.2022 20:22:31]Transaction Successful.
+[04.07.2022 20:22:32]Processing 044681002, started  transaction № 56, try №0
+[04.07.2022 20:22:33]044681002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:22:33]Processing 044681002, finished transaction № 56, try №0
+[04.07.2022 20:22:34]Transaction Successful.
+[04.07.2022 20:22:35]Processing 040397002, started  transaction № 57, try №0
+[04.07.2022 20:22:36]040397002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:22:36]Processing 040397002, finished transaction № 57, try №0
+[04.07.2022 20:22:37]Transaction Successful.
+[04.07.2022 20:22:38]Processing 048182002, started  transaction № 58, try №0
+[04.07.2022 20:22:39]048182002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:22:39]Processing 048182002, finished transaction № 58, try №0
+[04.07.2022 20:22:39]Transaction Successful.
+[04.07.2022 20:22:40]Processing 048880002, started  transaction № 59, try №0
+[04.07.2022 20:22:42]048880002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:22:42]Processing 048880002, finished transaction № 59, try №0
+[04.07.2022 20:22:42]Transaction Successful.
+[04.07.2022 20:22:43]Processing 043209000, started  transaction № 60, try №0
+[04.07.2022 20:22:44]043209000 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:22:44]Processing 043209000, finished transaction № 60, try №0
+[04.07.2022 20:22:45]Transaction Successful.
+[04.07.2022 20:22:46]Processing 047686002, started  transaction № 61, try №0
+[04.07.2022 20:22:47]047686002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:22:47]Processing 047686002, finished transaction № 61, try №0
+[04.07.2022 20:22:48]Transaction Successful.
+[04.07.2022 20:22:48]Processing 046080002, started  transaction № 62, try №0
+[04.07.2022 20:22:50]046080002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:22:50]Processing 046080002, finished transaction № 62, try №0
+[04.07.2022 20:22:50]Transaction Successful.
+[04.07.2022 20:22:51]Processing 049082100, started  transaction № 63, try №0
+[04.07.2022 20:22:52]049082100 successfully  added
+[04.07.2022 20:22:52]Processing 049082100, finished transaction № 63, try №0
+[04.07.2022 20:22:53]Transaction Successful.
+[04.07.2022 20:22:54]Processing 044781102, started  transaction № 64, try №0
+[04.07.2022 20:22:55]044781102 successfully  added
+[04.07.2022 20:22:55]Processing 044781102, finished transaction № 64, try №0
+[04.07.2022 20:22:56]Transaction Successful.
+[04.07.2022 20:22:57]Processing 044588100, started  transaction № 65, try №0
+[04.07.2022 20:22:58]044588100 excluded due to name difference, 
+pName=Межрегиональное операционное УФК 
+sName from BKIP=Межрегиональное операционное УФК
+[04.07.2022 20:22:58]Processing 044588100, finished transaction № 65, try №0
+[04.07.2022 20:22:59]Transaction Successful.
+[04.07.2022 20:23:00]Processing 048140100, started  transaction № 66, try №0
+[04.07.2022 20:23:01]048140100 excluded due to name difference, 
+pName=УФК по Республике Бурятия 
+sName from BKIP=УФК по Республике Бурятия
+[04.07.2022 20:23:01]Processing 048140100, finished transaction № 66, try №0
+[04.07.2022 20:23:02]Transaction Successful.
+[04.07.2022 20:23:03]Processing 044525760, started  transaction № 67, try №0
+[04.07.2022 20:23:04]044525760 successfully  added
+[04.07.2022 20:23:04]Processing 044525760, finished transaction № 67, try №0
+[04.07.2022 20:23:05]Transaction Successful.
+[04.07.2022 20:23:06]Processing 043510101, started  transaction № 68, try №0
+[04.07.2022 20:23:07]043510101 successfully  added
+[04.07.2022 20:23:07]Processing 043510101, finished transaction № 68, try №0
+[04.07.2022 20:23:08]Transaction Successful.
+[04.07.2022 20:23:09]Processing 200000390, started  transaction № 69, try №0
+[04.07.2022 20:23:11]200000390 successfully  added
+[04.07.2022 20:23:11]Processing 200000390, finished transaction № 69, try №0
+[04.07.2022 20:23:11]Transaction Successful.
+[04.07.2022 20:23:12]Processing 040813770, started  transaction № 70, try №0
+[04.07.2022 20:23:14]040813770 excluded due to Entered year<2000, sEntered year=2000
+[04.07.2022 20:23:14]Processing 040813770, finished transaction № 70, try №0
+[04.07.2022 20:23:14]Transaction Successful.
+[04.07.2022 20:23:15]Processing 044525421, started  transaction № 71, try №0
+[04.07.2022 20:23:17]044525421 successfully  added
+[04.07.2022 20:23:17]Processing 044525421, finished transaction № 71, try №0
+[04.07.2022 20:23:17]Transaction Successful.
+[04.07.2022 20:23:18]Processing 044525122, started  transaction № 72, try №0
+[04.07.2022 20:23:19]044525122 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:23:19]Processing 044525122, finished transaction № 72, try №0
+[04.07.2022 20:23:20]Transaction Successful.
+[04.07.2022 20:23:21]Processing 044525703, started  transaction № 73, try №0
+[04.07.2022 20:23:22]044525703 successfully  added
+[04.07.2022 20:23:22]Processing 044525703, finished transaction № 73, try №0
+[04.07.2022 20:23:23]Transaction Successful.
+[04.07.2022 20:23:24]Processing 045354817, started  transaction № 74, try №0
+[04.07.2022 20:23:25]045354817 successfully  added
+[04.07.2022 20:23:25]Processing 045354817, finished transaction № 74, try №0
+[04.07.2022 20:23:25]Transaction Successful.
+[04.07.2022 20:23:27]Processing 046015913, started  transaction № 75, try №0
+[04.07.2022 20:23:28]046015913 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:23:28]Processing 046015913, finished transaction № 75, try №0
+[04.07.2022 20:23:29]Transaction Successful.
+[04.07.2022 20:23:29]Processing 044525073, started  transaction № 76, try №0
+[04.07.2022 20:23:31]044525073 successfully  added
+[04.07.2022 20:23:31]Processing 044525073, finished transaction № 76, try №0
+[04.07.2022 20:23:32]Transaction Successful.
+[04.07.2022 20:23:32]Processing 044525106, started  transaction № 77, try №0
+[04.07.2022 20:23:34]044525106 successfully  added
+[04.07.2022 20:23:34]Processing 044525106, finished transaction № 77, try №0
+[04.07.2022 20:23:34]Transaction Successful.
+[04.07.2022 20:23:35]Processing 044525157, started  transaction № 78, try №0
+[04.07.2022 20:23:37]044525157 successfully  added
+[04.07.2022 20:23:37]Processing 044525157, finished transaction № 78, try №0
+[04.07.2022 20:23:37]Transaction Successful.
+[04.07.2022 20:23:38]Processing 044525228, started  transaction № 79, try №0
+[04.07.2022 20:23:39]044525228 successfully  added
+[04.07.2022 20:23:39]Processing 044525228, finished transaction № 79, try №0
+[04.07.2022 20:23:40]Transaction Successful.
+[04.07.2022 20:23:41]Processing 044525368, started  transaction № 80, try №0
+[04.07.2022 20:23:42]044525368 successfully  added
+[04.07.2022 20:23:42]Processing 044525368, finished transaction № 80, try №0
+[04.07.2022 20:23:43]Transaction Successful.
+[04.07.2022 20:23:44]Processing 044525378, started  transaction № 81, try №0
+[04.07.2022 20:23:45]044525378 successfully  added
+[04.07.2022 20:23:45]Processing 044525378, finished transaction № 81, try №0
+[04.07.2022 20:23:46]Transaction Successful.
+[04.07.2022 20:23:47]Processing 044525391, started  transaction № 82, try №0
+[04.07.2022 20:23:48]044525391 successfully  added
+[04.07.2022 20:23:48]Processing 044525391, finished transaction № 82, try №0
+[04.07.2022 20:23:49]Transaction Successful.
+[04.07.2022 20:23:50]Processing 044525429, started  transaction № 83, try №0
+[04.07.2022 20:23:51]044525429 successfully  added
+[04.07.2022 20:23:51]Processing 044525429, finished transaction № 83, try №0
+[04.07.2022 20:23:52]Transaction Successful.
+[04.07.2022 20:23:53]Processing 044525445, started  transaction № 84, try №0
+[04.07.2022 20:23:54]044525445 successfully  added
+[04.07.2022 20:23:54]Processing 044525445, finished transaction № 84, try №0
+[04.07.2022 20:23:55]Transaction Successful.
+[04.07.2022 20:23:56]Processing 044525447, started  transaction № 85, try №0
+[04.07.2022 20:23:57]044525447 successfully  added
+[04.07.2022 20:23:57]Processing 044525447, finished transaction № 85, try №0
+[04.07.2022 20:23:58]Transaction Successful.
+[04.07.2022 20:23:58]Processing 046311887, started  transaction № 86, try №0
+[04.07.2022 20:24:00]046311887 successfully  added
+[04.07.2022 20:24:00]Processing 046311887, finished transaction № 86, try №0
+[04.07.2022 20:24:00]Transaction Successful.
+[04.07.2022 20:24:01]Processing 044525455, started  transaction № 87, try №0
+[04.07.2022 20:24:03]044525455 successfully  added
+[04.07.2022 20:24:03]Processing 044525455, finished transaction № 87, try №0
+[04.07.2022 20:24:04]Transaction Successful.
+[04.07.2022 20:24:04]Processing 044525636, started  transaction № 88, try №0
+[04.07.2022 20:24:06]044525636 successfully  added
+[04.07.2022 20:24:06]Processing 044525636, finished transaction № 88, try №0
+[04.07.2022 20:24:06]Transaction Successful.
+[04.07.2022 20:24:07]Processing 044525695, started  transaction № 89, try №0
+[04.07.2022 20:24:08]044525695 successfully  added
+[04.07.2022 20:24:08]Processing 044525695, finished transaction № 89, try №0
+[04.07.2022 20:24:09]Transaction Successful.
+[04.07.2022 20:24:10]Processing 044525726, started  transaction № 90, try №0
+[04.07.2022 20:24:12]044525726 successfully  added
+[04.07.2022 20:24:12]Processing 044525726, finished transaction № 90, try №0
+[04.07.2022 20:24:12]Transaction Successful.
+[04.07.2022 20:24:13]Processing 044525729, started  transaction № 91, try №0
+[04.07.2022 20:24:14]044525729 successfully  added
+[04.07.2022 20:24:14]Processing 044525729, finished transaction № 91, try №0
+[04.07.2022 20:24:15]Transaction Successful.
+[04.07.2022 20:24:16]Processing 044525731, started  transaction № 92, try №0
+[04.07.2022 20:24:17]044525731 successfully  added
+[04.07.2022 20:24:17]Processing 044525731, finished transaction № 92, try №0
+[04.07.2022 20:24:18]Transaction Successful.
+[04.07.2022 20:24:19]Processing 044525829, started  transaction № 93, try №0
+[04.07.2022 20:24:20]044525829 successfully  added
+[04.07.2022 20:24:20]Processing 044525829, finished transaction № 93, try №0
+[04.07.2022 20:24:21]Transaction Successful.
+[04.07.2022 20:24:22]Processing 044525902, started  transaction № 94, try №0
+[04.07.2022 20:24:23]044525902 successfully  added
+[04.07.2022 20:24:23]Processing 044525902, finished transaction № 94, try №0
+[04.07.2022 20:24:24]Transaction Successful.
+[04.07.2022 20:24:25]Processing 044525932, started  transaction № 95, try №0
+[04.07.2022 20:24:27]044525932 successfully  added
+[04.07.2022 20:24:27]Processing 044525932, finished transaction № 95, try №0
+[04.07.2022 20:24:28]Transaction Successful.
+[04.07.2022 20:24:29]Processing 044525165, started  transaction № 96, try №0
+[04.07.2022 20:24:30]044525165 successfully  added
+[04.07.2022 20:24:30]Processing 044525165, finished transaction № 96, try №0
+[04.07.2022 20:24:31]Transaction Successful.
+[04.07.2022 20:24:32]Processing 044525194, started  transaction № 97, try №0
+[04.07.2022 20:24:33]044525194 successfully  added
+[04.07.2022 20:24:33]Processing 044525194, finished transaction № 97, try №0
+[04.07.2022 20:24:34]Transaction Successful.
+[04.07.2022 20:24:34]Processing 044525250, started  transaction № 98, try №0
+[04.07.2022 20:24:36]044525250 successfully  added
+[04.07.2022 20:24:36]Processing 044525250, finished transaction № 98, try №0
+[04.07.2022 20:24:37]Transaction Successful.
+[04.07.2022 20:24:37]Processing 044525946, started  transaction № 99, try №0
+[04.07.2022 20:24:39]044525946 successfully  added
+[04.07.2022 20:24:39]Processing 044525946, finished transaction № 99, try №0
+[04.07.2022 20:24:39]Transaction Successful.
+[04.07.2022 20:24:40]Processing 044525784, started  transaction № 100, try №0
+[04.07.2022 20:24:41]044525784 successfully  added
+[04.07.2022 20:24:41]Processing 044525784, finished transaction № 100, try №0
+[04.07.2022 20:24:42]Transaction Successful.
+[04.07.2022 20:24:43]Processing 042908770, started  transaction № 101, try №0
+[04.07.2022 20:24:44]042908770 successfully  added
+[04.07.2022 20:24:44]Processing 042908770, finished transaction № 101, try №0
+[04.07.2022 20:24:45]Transaction Successful.
+[04.07.2022 20:24:47]Processing 049205795, started  transaction № 102, try №0
+[04.07.2022 20:24:48]049205795 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:24:48]Processing 049205795, finished transaction № 102, try №0
+[04.07.2022 20:24:49]Transaction Successful.
+[04.07.2022 20:24:50]Processing 000510022, started  transaction № 103, try №0
+[04.07.2022 20:24:51]000510022 successfully  added
+[04.07.2022 20:24:51]Processing 000510022, finished transaction № 103, try №0
+[04.07.2022 20:24:52]Transaction Successful.
+[04.07.2022 20:24:53]Processing 044959775, started  transaction № 104, try №0
+[04.07.2022 20:24:54]044959775 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:24:54]Processing 044959775, finished transaction № 104, try №0
+[04.07.2022 20:24:54]Transaction Successful.
+[04.07.2022 20:24:55]Processing 044584100, started  transaction № 105, try №0
+[04.07.2022 20:24:57]044584100 successfully  added
+[04.07.2022 20:24:57]Processing 044584100, finished transaction № 105, try №0
+[04.07.2022 20:24:57]Transaction Successful.
+[04.07.2022 20:24:58]Processing 048142727, started  transaction № 106, try №0
+[04.07.2022 20:25:00]048142727 successfully  added
+[04.07.2022 20:25:00]Processing 048142727, finished transaction № 106, try №0
+[04.07.2022 20:25:00]Transaction Successful.
+[04.07.2022 20:25:01]Processing 043207782, started  transaction № 107, try №0
+[04.07.2022 20:25:02]043207782 successfully  added
+[04.07.2022 20:25:02]Processing 043207782, finished transaction № 107, try №0
+[04.07.2022 20:25:03]Transaction Successful.
+[04.07.2022 20:25:04]Processing 045354816, started  transaction № 108, try №0
+[04.07.2022 20:25:05]045354816 excluded due to Entered year<2000, sEntered year=2000
+[04.07.2022 20:25:05]Processing 045354816, finished transaction № 108, try №0
+[04.07.2022 20:25:06]Transaction Successful.
+[04.07.2022 20:25:07]Processing 046401747, started  transaction № 109, try №0
+[04.07.2022 20:25:08]046401747 successfully  added
+[04.07.2022 20:25:08]Processing 046401747, finished transaction № 109, try №0
+[04.07.2022 20:25:09]Transaction Successful.
+[04.07.2022 20:25:10]Processing 049304738, started  transaction № 110, try №0
+[04.07.2022 20:25:11]049304738 successfully  added
+[04.07.2022 20:25:11]Processing 049304738, finished transaction № 110, try №0
+[04.07.2022 20:25:12]Transaction Successful.
+[04.07.2022 20:25:13]Processing 047102622, started  transaction № 111, try №0
+[04.07.2022 20:25:14]047102622 successfully  added
+[04.07.2022 20:25:14]Processing 047102622, finished transaction № 111, try №0
+[04.07.2022 20:25:15]Transaction Successful.
+[04.07.2022 20:25:16]Processing 047501821, started  transaction № 112, try №0
+[04.07.2022 20:25:17]047501821 successfully  added
+[04.07.2022 20:25:17]Processing 047501821, finished transaction № 112, try №0
+[04.07.2022 20:25:18]Transaction Successful.
+[04.07.2022 20:25:19]Processing 049805771, started  transaction № 113, try №0
+[04.07.2022 20:25:20]049805771 successfully  added
+[04.07.2022 20:25:20]Processing 049805771, finished transaction № 113, try №0
+[04.07.2022 20:25:21]Transaction Successful.
+[04.07.2022 20:25:22]Processing 046579002, started  transaction № 114, try №0
+[04.07.2022 20:25:23]046579002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:25:23]Processing 046579002, finished transaction № 114, try №0
+[04.07.2022 20:25:24]Transaction Successful.
+[04.07.2022 20:25:25]Processing 046580002, started  transaction № 115, try №0
+[04.07.2022 20:25:26]046580002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:25:26]Processing 046580002, finished transaction № 115, try №0
+[04.07.2022 20:25:27]Transaction Successful.
+[04.07.2022 20:25:28]Processing 044030001, started  transaction № 116, try №0
+[04.07.2022 20:25:30]044030001 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:25:30]Processing 044030001, finished transaction № 116, try №0
+[04.07.2022 20:25:30]Transaction Successful.
+[04.07.2022 20:25:31]Processing 046577001, started  transaction № 117, try №0
+[04.07.2022 20:25:32]046577001 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:25:32]Processing 046577001, finished transaction № 117, try №0
+[04.07.2022 20:25:33]Transaction Successful.
+[04.07.2022 20:25:34]Processing 046382002, started  transaction № 118, try №0
+[04.07.2022 20:25:35]046382002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:25:35]Processing 046382002, finished transaction № 118, try №0
+[04.07.2022 20:25:36]Transaction Successful.
+[04.07.2022 20:25:37]Processing 041126002, started  transaction № 119, try №0
+[04.07.2022 20:25:39]041126002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:25:39]Processing 041126002, finished transaction № 119, try №0
+[04.07.2022 20:25:39]Transaction Successful.
+[04.07.2022 20:25:40]Processing 047169000, started  transaction № 120, try №0
+[04.07.2022 20:25:42]047169000 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:25:42]Processing 047169000, finished transaction № 120, try №0
+[04.07.2022 20:25:42]Transaction Successful.
+[04.07.2022 20:25:43]Processing 048140002, started  transaction № 121, try №0
+[04.07.2022 20:25:44]048140002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:25:44]Processing 048140002, finished transaction № 121, try №0
+[04.07.2022 20:25:45]Transaction Successful.
+[04.07.2022 20:25:46]Processing 040825000, started  transaction № 122, try №0
+[04.07.2022 20:25:48]040825000 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:25:48]Processing 040825000, finished transaction № 122, try №0
+[04.07.2022 20:25:48]Transaction Successful.
+[04.07.2022 20:25:50]Processing 048047000, started  transaction № 123, try №0
+[04.07.2022 20:25:51]048047000 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:25:51]Processing 048047000, finished transaction № 123, try №0
+[04.07.2022 20:25:52]Transaction Successful.
+[04.07.2022 20:25:52]Processing 049849000, started  transaction № 124, try №0
+[04.07.2022 20:25:54]049849000 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:25:54]Processing 049849000, finished transaction № 124, try №0
+[04.07.2022 20:25:55]Transaction Successful.
+[04.07.2022 20:25:55]Processing 040587002, started  transaction № 125, try №0
+[04.07.2022 20:25:57]040587002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:25:57]Processing 040587002, finished transaction № 125, try №0
+[04.07.2022 20:25:58]Transaction Successful.
+[04.07.2022 20:25:59]Processing 044566002, started  transaction № 126, try №0
+[04.07.2022 20:26:00]044566002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:26:00]Processing 044566002, finished transaction № 126, try №0
+[04.07.2022 20:26:01]Transaction Successful.
+[04.07.2022 20:26:02]Processing 047582002, started  transaction № 127, try №0
+[04.07.2022 20:26:03]047582002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:26:03]Processing 047582002, finished transaction № 127, try №0
+[04.07.2022 20:26:04]Transaction Successful.
+[04.07.2022 20:26:05]Processing 044697002, started  transaction № 128, try №0
+[04.07.2022 20:26:06]044697002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:26:06]Processing 044697002, finished transaction № 128, try №0
+[04.07.2022 20:26:07]Transaction Successful.
+[04.07.2022 20:26:08]Processing 046014000, started  transaction № 129, try №0
+[04.07.2022 20:26:09]046014000 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:26:09]Processing 046014000, finished transaction № 129, try №0
+[04.07.2022 20:26:10]Transaction Successful.
+[04.07.2022 20:26:11]Processing 047144000, started  transaction № 130, try №0
+[04.07.2022 20:26:13]047144000 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 20:26:13]Processing 047144000, finished transaction № 130, try №0
+[04.07.2022 20:26:14]Transaction Successful.
+[04.07.2022 20:26:15]Processing 040495000, started  transaction № 131, try №0
+[04.07.2022 20:26:16]040495000 excluded due to name difference, 
+pName=РКЦ НОРИЛЬСК
+sName from BKIP=РКЦ СУРГУТ
+[04.07.2022 20:26:16]Processing 040495000, finished transaction № 131, try №0
+[04.07.2022 20:26:17]Transaction Successful.
+[04.07.2022 20:26:18]Processing 048717000, started  transaction № 132, try №0
+[04.07.2022 20:26:19]Transaction Successful.
+[04.07.2022 20:49:05]Process has started started on DESKTOP-9NG67VR
+[04.07.2022 20:49:08]Start GetZIP
+[04.07.2022 20:51:12]End GetZIP
+[04.07.2022 20:51:15]Data from https://www.cbr.ru/PSystem/payment_system/#a_44305 has been successfully downloaded and parsed. Total number of rows to process=450
+[04.07.2022 20:51:17]Processing 042748877, started  transaction № 1, try №0
+[04.07.2022 20:51:20]Exception.Source=Invoke ObtainDatafromBKIP workflow: Sequence, Exception.Message=Specified cast is not valid.
+[04.07.2022 20:51:23]Processing 042748877, started  transaction № 1, try №1
+[04.07.2022 20:51:26]Exception.Source=Invoke ObtainDatafromBKIP workflow: Sequence, Exception.Message=Specified cast is not valid.
+[04.07.2022 20:51:27]Processing 042748877, started  transaction № 1, try №2
+[04.07.2022 20:51:31]Exception.Source=Invoke ObtainDatafromBKIP workflow: Sequence, Exception.Message=Specified cast is not valid.
+[04.07.2022 20:51:32]Processing 045773804, started  transaction № 2, try №0
+[04.07.2022 20:51:35]Exception.Source=Invoke ObtainDatafromBKIP workflow: Sequence, Exception.Message=Specified cast is not valid.
+[04.07.2022 20:51:37]Processing 045773804, started  transaction № 2, try №1
+[04.07.2022 20:51:40]Exception.Source=Invoke ObtainDatafromBKIP workflow: Sequence, Exception.Message=Specified cast is not valid.
+[04.07.2022 20:51:42]Processing 045773804, started  transaction № 2, try №2
+[04.07.2022 20:51:45]Exception.Source=Invoke ObtainDatafromBKIP workflow: Sequence, Exception.Message=Specified cast is not valid.
+[04.07.2022 20:51:47]Processing 045805722, started  transaction № 3, try №0
+[04.07.2022 20:51:48]Transaction Successful.
+[04.07.2022 20:55:23]Process has started started on DESKTOP-9NG67VR
+[04.07.2022 20:55:26]Start GetZIP
+[04.07.2022 20:55:35]ZIP file alredy exist and will be replaced
+[04.07.2022 20:55:35]Start downloading ZIP file from web
+[04.07.2022 20:55:35]End downloading ZIP file from web
+[04.07.2022 20:55:35]End GetZIP
+[04.07.2022 20:55:38]Data from https://www.cbr.ru/PSystem/payment_system/#a_44305 has been successfully downloaded and parsed. Total number of rows to process=450
+[04.07.2022 20:55:39]Processing 042748877, started  transaction № 1, try №0
+[04.07.2022 21:01:24]Exception.Source=Invoke ObtainDatafromBKIP workflow: Message Box, Exception.Message=Specified cast is not valid.
+[04.07.2022 21:01:27]Processing 042748877, started  transaction № 1, try №1
+[04.07.2022 21:01:32]Exception.Source=Invoke ObtainDatafromBKIP workflow: Message Box, Exception.Message=Specified cast is not valid.
+[04.07.2022 21:01:34]Processing 042748877, started  transaction № 1, try №2
+[04.07.2022 21:01:38]Exception.Source=Invoke ObtainDatafromBKIP workflow: Message Box, Exception.Message=Specified cast is not valid.
+[04.07.2022 21:01:41]Processing 045773804, started  transaction № 2, try №0
+[04.07.2022 21:01:47]Exception.Source=Invoke ObtainDatafromBKIP workflow: Message Box, Exception.Message=Specified cast is not valid.
+[04.07.2022 21:01:49]Processing 045773804, started  transaction № 2, try №1
+[04.07.2022 21:01:53]Exception.Source=Invoke ObtainDatafromBKIP workflow: Message Box, Exception.Message=Specified cast is not valid.
+[04.07.2022 21:01:55]Processing 045773804, started  transaction № 2, try №2
+[04.07.2022 21:01:59]Exception.Source=Invoke ObtainDatafromBKIP workflow: Message Box, Exception.Message=Specified cast is not valid.
+[04.07.2022 21:02:01]Processing 045805722, started  transaction № 3, try №0
+[04.07.2022 21:02:04]Exception.Source=Invoke ObtainDatafromBKIP workflow: Message Box, Exception.Message=Specified cast is not valid.
+[04.07.2022 21:02:06]Processing 045805722, started  transaction № 3, try №1
+[04.07.2022 21:05:39]Process has started started on DESKTOP-9NG67VR
+[04.07.2022 21:05:42]Start GetZIP
+[04.07.2022 21:05:50]ZIP file alredy exist and will be replaced
+[04.07.2022 21:05:50]Start downloading ZIP file from web
+[04.07.2022 21:05:50]End downloading ZIP file from web
+[04.07.2022 21:05:50]End GetZIP
+[04.07.2022 21:05:53]Data from https://www.cbr.ru/PSystem/payment_system/#a_44305 has been successfully downloaded and parsed. Total number of rows to process=450
+[04.07.2022 21:05:55]Processing 042748877, started  transaction № 1, try №0
+[04.07.2022 21:06:18]042748877wasn't found
+[04.07.2022 21:06:19]BusinessException=UiPath.Core.BusinessRuleException: 042748877wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 21:06:20]Processing 045773804, started  transaction № 2, try №0
+[04.07.2022 21:12:48]Process has started started on DESKTOP-9NG67VR
+[04.07.2022 21:12:52]Start GetZIP
+[04.07.2022 21:13:00]ZIP file alredy exist and will be replaced
+[04.07.2022 21:13:00]Start downloading ZIP file from web
+[04.07.2022 21:13:00]End downloading ZIP file from web
+[04.07.2022 21:13:00]End GetZIP
+[04.07.2022 21:13:03]Data from https://www.cbr.ru/PSystem/payment_system/#a_44305 has been successfully downloaded and parsed. Total number of rows to process=450
+[04.07.2022 21:13:04]Processing 042748877, started  transaction № 1, try №0
+[04.07.2022 21:13:07]042748877wasn't found
+[04.07.2022 21:13:08]BusinessException=UiPath.Core.BusinessRuleException: 042748877wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 21:13:09]Processing 045773804, started  transaction № 2, try №0
+[04.07.2022 21:13:11]045773804wasn't found
+[04.07.2022 21:13:11]BusinessException=UiPath.Core.BusinessRuleException: 045773804wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 21:13:13]Processing 045805722, started  transaction № 3, try №0
+[04.07.2022 21:13:14]045805722wasn't found
+[04.07.2022 21:13:15]BusinessException=UiPath.Core.BusinessRuleException: 045805722wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 21:13:16]Processing 044525755, started  transaction № 4, try №0
+[04.07.2022 21:13:48]Exception.Source=Invoke ObtainDatafromBKIP workflow: Get Text  Name, Exception.Message=Could not find the UI element corresponding to this selector:
+<html app='chrome.exe' title='Поиск банка по БИК'/>
+<webctrl tag='TABLE'/>
+<webctrl rowName='Название*' tableCol='2' tag='TD'/>
+
+[04.07.2022 21:13:50]Processing 044525755, started  transaction № 4, try №1
+[04.07.2022 21:13:54]044525755wasn't found
+[04.07.2022 21:13:54]BusinessException=UiPath.Core.BusinessRuleException: 044525755wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 21:13:55]Processing 044525776, started  transaction № 5, try №0
+[04.07.2022 21:13:57]044525776wasn't found
+[04.07.2022 21:13:57]BusinessException=UiPath.Core.BusinessRuleException: 044525776wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 21:13:58]Processing 044525789, started  transaction № 6, try №0
+[04.07.2022 21:14:00]044525789wasn't found
+[04.07.2022 21:14:00]BusinessException=UiPath.Core.BusinessRuleException: 044525789wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 21:14:01]Processing 044525857, started  transaction № 7, try №0
+[04.07.2022 21:14:03]044525857wasn't found
+[04.07.2022 21:14:04]BusinessException=UiPath.Core.BusinessRuleException: 044525857wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 21:14:05]Processing 044525895, started  transaction № 8, try №0
+[04.07.2022 21:14:07]044525895wasn't found
+[04.07.2022 21:14:08]BusinessException=UiPath.Core.BusinessRuleException: 044525895wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 21:14:08]Processing 044525957, started  transaction № 9, try №0
+[04.07.2022 21:14:10]044525957wasn't found
+[04.07.2022 21:14:11]BusinessException=UiPath.Core.BusinessRuleException: 044525957wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 21:14:12]Processing 044525993, started  transaction № 10, try №0
+[04.07.2022 21:14:13]044525993wasn't found
+[04.07.2022 21:14:14]BusinessException=UiPath.Core.BusinessRuleException: 044525993wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 21:14:15]Processing 04452539, started  transaction № 11, try №0
+[04.07.2022 21:14:46]Exception.Source=Invoke ObtainDatafromBKIP workflow: Get Text  Name, Exception.Message=Could not find the UI element corresponding to this selector:
+<html app='chrome.exe' title='Поиск банка по БИК'/>
+<webctrl tag='TABLE'/>
+<webctrl rowName='Название*' tableCol='2' tag='TD'/>
+
+[04.07.2022 21:14:48]Processing 04452539, started  transaction № 11, try №1
+[04.07.2022 21:15:21]Exception.Source=Invoke ObtainDatafromBKIP workflow: Get Text  Name, Exception.Message=Could not find the UI element corresponding to this selector:
+<html app='chrome.exe' title='Поиск банка по БИК'/>
+<webctrl tag='TABLE'/>
+<webctrl rowName='Название*' tableCol='2' tag='TD'/>
+
+[04.07.2022 21:15:23]Processing 04452539, started  transaction № 11, try №2
+[04.07.2022 21:16:18]Exception.Source=Invoke ObtainDatafromBKIP workflow: Get Text  Name, Exception.Message=Could not find the UI element corresponding to this selector:
+<html app='chrome.exe' title='Поиск банка по БИК'/>
+<webctrl tag='TABLE'/>
+<webctrl rowName='Название*' tableCol='2' tag='TD'/>
+
+[04.07.2022 21:16:20]Processing 041012731, started  transaction № 12, try №0
+[04.07.2022 21:16:23]041012731wasn't found
+[04.07.2022 21:16:23]BusinessException=UiPath.Core.BusinessRuleException: 041012731wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 21:16:24]Processing 042406780, started  transaction № 13, try №0
+[04.07.2022 21:16:26]042406780wasn't found
+[04.07.2022 21:16:27]BusinessException=UiPath.Core.BusinessRuleException: 042406780wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 21:16:28]Processing 042618783, started  transaction № 14, try №0
+[04.07.2022 21:16:29]042618783wasn't found
+[04.07.2022 21:16:30]BusinessException=UiPath.Core.BusinessRuleException: 042618783wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 21:16:31]Processing 042520700, started  transaction № 15, try №0
+[04.07.2022 21:16:32]042520700wasn't found
+[04.07.2022 21:16:33]BusinessException=UiPath.Core.BusinessRuleException: 042520700wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 21:16:34]Processing 04870739, started  transaction № 16, try №0
+[04.07.2022 21:17:05]Exception.Source=Invoke ObtainDatafromBKIP workflow: Get Text  Name, Exception.Message=Could not find the UI element corresponding to this selector:
+<html app='chrome.exe' title='Поиск банка по БИК'/>
+<webctrl tag='TABLE'/>
+<webctrl rowName='Название*' tableCol='2' tag='TD'/>
+
+[04.07.2022 21:17:08]Processing 04870739, started  transaction № 16, try №1
+[04.07.2022 21:17:40]Exception.Source=Invoke ObtainDatafromBKIP workflow: Get Text  Name, Exception.Message=Could not find the UI element corresponding to this selector:
+<html app='chrome.exe' title='Поиск банка по БИК'/>
+<webctrl tag='TABLE'/>
+<webctrl rowName='Название*' tableCol='2' tag='TD'/>
+
+[04.07.2022 21:17:43]Processing 04870739, started  transaction № 16, try №2
+[04.07.2022 21:18:00]Transaction Successful.
+[04.07.2022 21:19:24]Process has started started on DESKTOP-9NG67VR
+[04.07.2022 21:19:27]Start GetZIP
+[04.07.2022 21:19:35]ZIP file alredy exist and will be replaced
+[04.07.2022 21:19:35]Start downloading ZIP file from web
+[04.07.2022 21:19:36]End downloading ZIP file from web
+[04.07.2022 21:19:36]End GetZIP
+[04.07.2022 21:19:38]Data from https://www.cbr.ru/PSystem/payment_system/#a_44305 has been successfully downloaded and parsed. Total number of rows to process=450
+[04.07.2022 21:19:40]Processing 04274887, started  transaction № 1, try №0
+[04.07.2022 21:20:16]Transaction Successful.
+[04.07.2022 21:21:07]Process has started started on DESKTOP-9NG67VR
+[04.07.2022 21:21:10]Start GetZIP
+[04.07.2022 21:21:18]ZIP file alredy exist and will be replaced
+[04.07.2022 21:21:18]Start downloading ZIP file from web
+[04.07.2022 21:21:18]End downloading ZIP file from web
+[04.07.2022 21:21:18]End GetZIP
+[04.07.2022 21:21:21]Data from https://www.cbr.ru/PSystem/payment_system/#a_44305 has been successfully downloaded and parsed. Total number of rows to process=450
+[04.07.2022 21:21:23]Processing 04274887, started  transaction № 1, try №0
+[04.07.2022 21:21:26]04274887wasn't found
+[04.07.2022 21:21:27]BusinessException=UiPath.Core.BusinessRuleException: 04274887wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 21:21:27]Processing 045773804, started  transaction № 2, try №0
+[04.07.2022 21:21:30]045773804 successfully  added
+[04.07.2022 21:21:30]Processing 045773804, finished transaction № 2, try №0
+[04.07.2022 21:21:31]Transaction Successful.
+[04.07.2022 21:21:32]Processing 045805722, started  transaction № 3, try №0
+[04.07.2022 21:21:34]045805722 excluded due to Entered year<2000, sEntered year=1995
+[04.07.2022 21:21:34]Processing 045805722, finished transaction № 3, try №0
+[04.07.2022 21:21:34]Transaction Successful.
+[04.07.2022 21:21:35]Processing 044525755, started  transaction № 4, try №0
+[04.07.2022 21:21:38]044525755 successfully  added
+[04.07.2022 21:21:38]Processing 044525755, finished transaction № 4, try №0
+[04.07.2022 21:21:39]Transaction Successful.
+[04.07.2022 21:21:40]Processing 044525776, started  transaction № 5, try №0
+[04.07.2022 21:21:42]044525776 excluded due to name difference, 
+pName=КУ АКБ "ОБПИ" (ПАО) - ГК "АСВ"
+sName from BKIP=КУ АО "ТУСАРБАНК" - ГК "АСВ"
+[04.07.2022 21:21:42]Processing 044525776, finished transaction № 5, try №0
+[04.07.2022 21:21:43]Transaction Successful.
+[04.07.2022 21:21:44]Processing 044525789, started  transaction № 6, try №0
+[04.07.2022 21:21:46]044525789 successfully  added
+[04.07.2022 21:21:46]Processing 044525789, finished transaction № 6, try №0
+[04.07.2022 21:21:47]Transaction Successful.
+[04.07.2022 21:21:48]Processing 044525857, started  transaction № 7, try №0
+[04.07.2022 21:21:50]044525857 successfully  added
+[04.07.2022 21:21:50]Processing 044525857, finished transaction № 7, try №0
+[04.07.2022 21:21:51]Transaction Successful.
+[04.07.2022 21:21:52]Processing 044525895, started  transaction № 8, try №0
+[04.07.2022 21:21:54]044525895 successfully  added
+[04.07.2022 21:21:54]Processing 044525895, finished transaction № 8, try №0
+[04.07.2022 21:21:55]Transaction Successful.
+[04.07.2022 21:21:56]Processing 044525957, started  transaction № 9, try №0
+[04.07.2022 21:21:59]044525957 successfully  added
+[04.07.2022 21:21:59]Processing 044525957, finished transaction № 9, try №0
+[04.07.2022 21:21:59]Transaction Successful.
+[04.07.2022 21:22:00]Processing 044525993, started  transaction № 10, try №0
+[04.07.2022 21:22:02]044525993 successfully  added
+[04.07.2022 21:22:03]Processing 044525993, finished transaction № 10, try №0
+[04.07.2022 21:22:03]Transaction Successful.
+[04.07.2022 21:22:04]Processing 04452539, started  transaction № 11, try №0
+[04.07.2022 21:22:06]04452539wasn't found
+[04.07.2022 21:22:06]BusinessException=UiPath.Core.BusinessRuleException: 04452539wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 21:22:07]Processing 041012731, started  transaction № 12, try №0
+[04.07.2022 21:22:10]041012731 successfully  added
+[04.07.2022 21:22:10]Processing 041012731, finished transaction № 12, try №0
+[04.07.2022 21:22:10]Transaction Successful.
+[04.07.2022 21:22:11]Processing 042406780, started  transaction № 13, try №0
+[04.07.2022 21:22:14]042406780 successfully  added
+[04.07.2022 21:22:14]Processing 042406780, finished transaction № 13, try №0
+[04.07.2022 21:22:14]Transaction Successful.
+[04.07.2022 21:22:15]Processing 042618783, started  transaction № 14, try №0
+[04.07.2022 21:22:17]042618783 successfully  added
+[04.07.2022 21:22:17]Processing 042618783, finished transaction № 14, try №0
+[04.07.2022 21:22:18]Transaction Successful.
+[04.07.2022 21:22:19]Processing 042520700, started  transaction № 15, try №0
+[04.07.2022 21:22:21]042520700 successfully  added
+[04.07.2022 21:22:21]Processing 042520700, finished transaction № 15, try №0
+[04.07.2022 21:22:22]Transaction Successful.
+[04.07.2022 21:22:23]Processing 04870739, started  transaction № 16, try №0
+[04.07.2022 21:22:24]04870739wasn't found
+[04.07.2022 21:22:25]BusinessException=UiPath.Core.BusinessRuleException: 04870739wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 21:22:26]Processing 045805772, started  transaction № 17, try №0
+[04.07.2022 21:22:28]045805772 successfully  added
+[04.07.2022 21:22:28]Processing 045805772, finished transaction № 17, try №0
+[04.07.2022 21:22:29]Transaction Successful.
+[04.07.2022 21:22:29]Processing 044525300, started  transaction № 18, try №0
+[04.07.2022 21:22:32]044525300 successfully  added
+[04.07.2022 21:22:32]Processing 044525300, finished transaction № 18, try №0
+[04.07.2022 21:22:33]Transaction Successful.
+[04.07.2022 21:22:34]Processing 043083002, started  transaction № 19, try №0
+[04.07.2022 21:22:36]043083002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 21:22:36]Processing 043083002, finished transaction № 19, try №0
+[04.07.2022 21:22:36]Transaction Successful.
+[04.07.2022 21:22:37]Processing 044588002, started  transaction № 20, try №0
+[04.07.2022 21:22:40]044588002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 21:22:40]Processing 044588002, finished transaction № 20, try №0
+[04.07.2022 21:22:40]Transaction Successful.
+[04.07.2022 21:22:41]Processing 044703000, started  transaction № 21, try №0
+[04.07.2022 21:22:44]044703000 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 21:22:44]Processing 044703000, finished transaction № 21, try №0
+[04.07.2022 21:22:44]Transaction Successful.
+[04.07.2022 21:22:45]Result file for current date was found and has been deleted, new one will be writed
+[04.07.2022 21:22:45]Total number of rows from XML=450, added BIC number=13, Excluded BIC number=434 not found BIC number=3
+[04.07.2022 21:28:29]Process has started started on DESKTOP-9NG67VR
+[04.07.2022 21:28:32]Start GetZIP
+[04.07.2022 21:28:42]ZIP file alredy exist and will be replaced
+[04.07.2022 21:28:42]Start downloading ZIP file from web
+[04.07.2022 21:28:42]End downloading ZIP file from web
+[04.07.2022 21:28:42]End GetZIP
+[04.07.2022 21:28:44]Data from https://www.cbr.ru/PSystem/payment_system/#a_44305 has been successfully downloaded and parsed. Total number of rows to process=450
+[04.07.2022 21:28:46]Processing 04274887, started  transaction № 1, try №0
+[04.07.2022 21:28:49]BIC 04274887 wasn't found
+[04.07.2022 21:28:50]BusinessException=UiPath.Core.BusinessRuleException: BIC 04274887 wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 21:28:50]Processing 045773804, started  transaction № 2, try №0
+[04.07.2022 21:28:53]045773804 successfully  added
+[04.07.2022 21:28:53]Processing 045773804, finished transaction № 2, try №0
+[04.07.2022 21:28:53]Transaction Successful.
+[04.07.2022 21:28:54]Processing 045805722, started  transaction № 3, try №0
+[04.07.2022 21:28:56]045805722 excluded due to Entered year<2000, sEntered year=1995
+[04.07.2022 21:28:56]Processing 045805722, finished transaction № 3, try №0
+[04.07.2022 21:28:57]Transaction Successful.
+[04.07.2022 21:28:58]Processing 044525755, started  transaction № 4, try №0
+[04.07.2022 21:29:00]044525755 successfully  added
+[04.07.2022 21:29:00]Processing 044525755, finished transaction № 4, try №0
+[04.07.2022 21:29:00]Transaction Successful.
+[04.07.2022 21:29:01]Processing 044525776, started  transaction № 5, try №0
+[04.07.2022 21:29:03]044525776 successfully  added
+[04.07.2022 21:29:03]Processing 044525776, finished transaction № 5, try №0
+[04.07.2022 21:29:04]Transaction Successful.
+[04.07.2022 21:29:05]Processing 044525789, started  transaction № 6, try №0
+[04.07.2022 21:29:07]044525789 successfully  added
+[04.07.2022 21:29:07]Processing 044525789, finished transaction № 6, try №0
+[04.07.2022 21:29:07]Transaction Successful.
+[04.07.2022 21:29:08]Processing 044525857, started  transaction № 7, try №0
+[04.07.2022 21:29:10]044525857 successfully  added
+[04.07.2022 21:29:10]Processing 044525857, finished transaction № 7, try №0
+[04.07.2022 21:29:11]Transaction Successful.
+[04.07.2022 21:29:12]Processing 044525895, started  transaction № 8, try №0
+[04.07.2022 21:29:14]044525895 successfully  added
+[04.07.2022 21:29:14]Processing 044525895, finished transaction № 8, try №0
+[04.07.2022 21:29:15]Transaction Successful.
+[04.07.2022 21:29:16]Processing 044525957, started  transaction № 9, try №0
+[04.07.2022 21:29:18]044525957 successfully  added
+[04.07.2022 21:29:18]Processing 044525957, finished transaction № 9, try №0
+[04.07.2022 21:29:19]Transaction Successful.
+[04.07.2022 21:29:20]Processing 044525993, started  transaction № 10, try №0
+[04.07.2022 21:29:22]044525993 successfully  added
+[04.07.2022 21:29:22]Processing 044525993, finished transaction № 10, try №0
+[04.07.2022 21:29:23]Transaction Successful.
+[04.07.2022 21:29:23]Processing 04452539, started  transaction № 11, try №0
+[04.07.2022 21:29:25]BIC 04452539 wasn't found
+[04.07.2022 21:29:25]BusinessException=UiPath.Core.BusinessRuleException: BIC 04452539 wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 21:29:26]Processing 041012731, started  transaction № 12, try №0
+[04.07.2022 21:29:28]041012731 successfully  added
+[04.07.2022 21:29:28]Processing 041012731, finished transaction № 12, try №0
+[04.07.2022 21:29:29]Transaction Successful.
+[04.07.2022 21:29:30]Processing 042406780, started  transaction № 13, try №0
+[04.07.2022 21:29:32]042406780 successfully  added
+[04.07.2022 21:29:32]Processing 042406780, finished transaction № 13, try №0
+[04.07.2022 21:29:33]Transaction Successful.
+[04.07.2022 21:29:34]Processing 042618783, started  transaction № 14, try №0
+[04.07.2022 21:29:36]042618783 successfully  added
+[04.07.2022 21:29:36]Processing 042618783, finished transaction № 14, try №0
+[04.07.2022 21:29:36]Transaction Successful.
+[04.07.2022 21:29:38]Processing 042520700, started  transaction № 15, try №0
+[04.07.2022 21:29:40]042520700 successfully  added
+[04.07.2022 21:29:40]Processing 042520700, finished transaction № 15, try №0
+[04.07.2022 21:29:40]Transaction Successful.
+[04.07.2022 21:29:42]Processing 04870739, started  transaction № 16, try №0
+[04.07.2022 21:29:43]BIC 04870739 wasn't found
+[04.07.2022 21:29:43]BusinessException=UiPath.Core.BusinessRuleException: BIC 04870739 wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 21:29:45]Processing 045805772, started  transaction № 17, try №0
+[04.07.2022 21:29:47]045805772 successfully  added
+[04.07.2022 21:29:47]Processing 045805772, finished transaction № 17, try №0
+[04.07.2022 21:29:48]Transaction Successful.
+[04.07.2022 21:29:49]Processing 044525300, started  transaction № 18, try №0
+[04.07.2022 21:29:51]044525300 successfully  added
+[04.07.2022 21:29:51]Processing 044525300, finished transaction № 18, try №0
+[04.07.2022 21:29:51]Transaction Successful.
+[04.07.2022 21:29:52]Processing 043083002, started  transaction № 19, try №0
+[04.07.2022 21:29:54]043083002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 21:29:54]Processing 043083002, finished transaction № 19, try №0
+[04.07.2022 21:29:55]Transaction Successful.
+[04.07.2022 21:29:56]Processing 044588002, started  transaction № 20, try №0
+[04.07.2022 21:29:58]044588002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 21:29:58]Processing 044588002, finished transaction № 20, try №0
+[04.07.2022 21:29:59]Transaction Successful.
+[04.07.2022 21:30:00]Processing 044703000, started  transaction № 21, try №0
+[04.07.2022 21:30:02]044703000 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 21:30:02]Processing 044703000, finished transaction № 21, try №0
+[04.07.2022 21:30:03]Transaction Successful.
+[04.07.2022 21:30:04]Result file for current date was found and has been deleted, new one will be writed
+[04.07.2022 21:30:04]Total number of rows from XML=450, added BIC number=14, excluded BIC number=433, not found BIC number=3
+[04.07.2022 23:38:43]Process has started started on DESKTOP-9NG67VR
+[04.07.2022 23:38:47]Start GetZIP
+[04.07.2022 23:46:24]ZIP download error 
+[04.07.2022 23:46:24]Неверный пароль
+[04.07.2022 23:47:29]Process has started started on DESKTOP-9NG67VR
+[04.07.2022 23:47:34]Start GetZIP
+[04.07.2022 23:47:42]Start downloading ZIP file from web
+[04.07.2022 23:47:42]End downloading ZIP file from web
+[04.07.2022 23:47:42]End GetZIP
+[04.07.2022 23:47:46]Data from https://www.cbr.ru/PSystem/payment_system/#a_44305 has been successfully downloaded and parsed. Total number of rows to process=450
+[04.07.2022 23:47:48]Processing 04274887, started  transaction № 1, try №0
+[04.07.2022 23:47:51]BIC 04274887 wasn't found
+[04.07.2022 23:47:53]BusinessException=UiPath.Core.BusinessRuleException: BIC 04274887 wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 23:47:54]Processing 045773804, started  transaction № 2, try №0
+[04.07.2022 23:47:57]BIC 045773804 wasn't found
+[04.07.2022 23:47:58]BusinessException=UiPath.Core.BusinessRuleException: BIC 045773804 wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 23:47:59]Processing 045805722, started  transaction № 3, try №0
+[04.07.2022 23:48:01]BIC 045805722 wasn't found
+[04.07.2022 23:48:03]BusinessException=UiPath.Core.BusinessRuleException: BIC 045805722 wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 23:48:05]Processing 044525755, started  transaction № 4, try №0
+[04.07.2022 23:48:07]BIC 044525755 wasn't found
+[04.07.2022 23:48:09]BusinessException=UiPath.Core.BusinessRuleException: BIC 044525755 wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 23:48:10]Processing 044525776, started  transaction № 5, try №0
+[04.07.2022 23:48:12]BIC 044525776 wasn't found
+[04.07.2022 23:48:14]BusinessException=UiPath.Core.BusinessRuleException: BIC 044525776 wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 23:48:15]Processing 044525789, started  transaction № 6, try №0
+[04.07.2022 23:48:17]BIC 044525789 wasn't found
+[04.07.2022 23:48:19]BusinessException=UiPath.Core.BusinessRuleException: BIC 044525789 wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 23:48:20]Processing 044525857, started  transaction № 7, try №0
+[04.07.2022 23:48:22]BIC 044525857 wasn't found
+[04.07.2022 23:48:24]BusinessException=UiPath.Core.BusinessRuleException: BIC 044525857 wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 23:48:25]Processing 044525895, started  transaction № 8, try №0
+[04.07.2022 23:48:28]BIC 044525895 wasn't found
+[04.07.2022 23:48:29]BusinessException=UiPath.Core.BusinessRuleException: BIC 044525895 wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 23:48:30]Processing 044525957, started  transaction № 9, try №0
+[04.07.2022 23:48:32]BIC 044525957 wasn't found
+[04.07.2022 23:48:35]BusinessException=UiPath.Core.BusinessRuleException: BIC 044525957 wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 23:48:36]Processing 044525993, started  transaction № 10, try №0
+[04.07.2022 23:48:38]BIC 044525993 wasn't found
+[04.07.2022 23:48:40]BusinessException=UiPath.Core.BusinessRuleException: BIC 044525993 wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 23:48:41]Processing 04452539, started  transaction № 11, try №0
+[04.07.2022 23:48:43]BIC 04452539 wasn't found
+[04.07.2022 23:48:45]BusinessException=UiPath.Core.BusinessRuleException: BIC 04452539 wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 23:48:46]Processing 041012731, started  transaction № 12, try №0
+[04.07.2022 23:48:49]BIC 041012731 wasn't found
+[04.07.2022 23:48:50]BusinessException=UiPath.Core.BusinessRuleException: BIC 041012731 wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 23:48:51]Processing 042406780, started  transaction № 13, try №0
+[04.07.2022 23:48:53]BIC 042406780 wasn't found
+[04.07.2022 23:48:56]BusinessException=UiPath.Core.BusinessRuleException: BIC 042406780 wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 23:48:57]Processing 042618783, started  transaction № 14, try №0
+[04.07.2022 23:48:59]BIC 042618783 wasn't found
+[04.07.2022 23:49:01]BusinessException=UiPath.Core.BusinessRuleException: BIC 042618783 wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 23:49:02]Processing 042520700, started  transaction № 15, try №0
+[04.07.2022 23:49:04]BIC 042520700 wasn't found
+[04.07.2022 23:49:07]BusinessException=UiPath.Core.BusinessRuleException: BIC 042520700 wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 23:49:07]Processing 04870739, started  transaction № 16, try №0
+[04.07.2022 23:49:10]BIC 04870739 wasn't found
+[04.07.2022 23:49:12]BusinessException=UiPath.Core.BusinessRuleException: BIC 04870739 wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 23:49:13]Processing 045805772, started  transaction № 17, try №0
+[04.07.2022 23:49:15]BIC 045805772 wasn't found
+[04.07.2022 23:49:18]BusinessException=UiPath.Core.BusinessRuleException: BIC 045805772 wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 23:49:19]Processing 044525300, started  transaction № 18, try №0
+[04.07.2022 23:49:21]BIC 044525300 wasn't found
+[04.07.2022 23:49:23]BusinessException=UiPath.Core.BusinessRuleException: BIC 044525300 wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 23:49:24]Processing 043083002, started  transaction № 19, try №0
+[04.07.2022 23:49:26]BIC 043083002 wasn't found
+[04.07.2022 23:49:28]BusinessException=UiPath.Core.BusinessRuleException: BIC 043083002 wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 23:49:30]Processing 044588002, started  transaction № 20, try №0
+[04.07.2022 23:49:32]BIC 044588002 wasn't found
+[04.07.2022 23:49:34]BusinessException=UiPath.Core.BusinessRuleException: BIC 044588002 wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 23:53:49]Process has started started on DESKTOP-9NG67VR
+[04.07.2022 23:53:54]Start GetZIP
+[04.07.2022 23:54:01]Start downloading ZIP file from web
+[04.07.2022 23:54:05]End downloading ZIP file from web
+[04.07.2022 23:54:05]End GetZIP
+[04.07.2022 23:54:09]Data from https://www.cbr.ru/PSystem/payment_system/#a_44305 has been successfully downloaded and parsed. Total number of rows to process=450
+[04.07.2022 23:54:12]Processing 04274887, started  transaction № 1, try №0
+[04.07.2022 23:54:15]BIC 04274887 wasn't found
+[04.07.2022 23:54:17]BusinessException=UiPath.Core.BusinessRuleException: BIC 04274887 wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 23:54:18]Processing 045773804, started  transaction № 2, try №0
+[04.07.2022 23:54:21]BIC 045773804 wasn't found
+[04.07.2022 23:54:22]BusinessException=UiPath.Core.BusinessRuleException: BIC 045773804 wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 23:54:23]Processing 045805722, started  transaction № 3, try №0
+[04.07.2022 23:54:26]BIC 045805722 wasn't found
+[04.07.2022 23:54:28]BusinessException=UiPath.Core.BusinessRuleException: BIC 045805722 wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 23:54:29]Processing 044525755, started  transaction № 4, try №0
+[04.07.2022 23:54:31]BIC 044525755 wasn't found
+[04.07.2022 23:54:33]BusinessException=UiPath.Core.BusinessRuleException: BIC 044525755 wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 23:54:34]Processing 044525776, started  transaction № 5, try №0
+[04.07.2022 23:54:36]BIC 044525776 wasn't found
+[04.07.2022 23:54:39]BusinessException=UiPath.Core.BusinessRuleException: BIC 044525776 wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 23:54:40]Processing 044525789, started  transaction № 6, try №0
+[04.07.2022 23:54:44]044525789 excluded due to name difference, 
+pName=КУ КБ "МРБ" (ООО)" - ГК "АСВ"
+sName from BKIP=ФИЛИАЛ "ЛЫСЬВА" АО АКБ "АЛЕФ-БАНК"
+[04.07.2022 23:54:44]Processing 044525789, finished transaction № 6, try №0
+[04.07.2022 23:54:45]Transaction Successful.
+[04.07.2022 23:54:45]Processing 044525857, started  transaction № 7, try №0
+[04.07.2022 23:54:49]044525857 excluded due to name difference, 
+pName=КУ ООО КБ "РОСАВТОБАНК" - ГК "АСВ"
+sName from BKIP=ФИЛИАЛ "ЛЫСЬВА" АО АКБ "АЛЕФ-БАНК"
+[04.07.2022 23:54:49]Processing 044525857, finished transaction № 7, try №0
+[04.07.2022 23:54:49]Transaction Successful.
+[04.07.2022 23:55:45]Process has started started on DESKTOP-9NG67VR
+[04.07.2022 23:55:50]Start GetZIP
+[04.07.2022 23:55:57]Start downloading ZIP file from web
+[04.07.2022 23:55:57]End downloading ZIP file from web
+[04.07.2022 23:55:57]End GetZIP
+[04.07.2022 23:56:01]Data from https://www.cbr.ru/PSystem/payment_system/#a_44305 has been successfully downloaded and parsed. Total number of rows to process=450
+[04.07.2022 23:56:03]Processing 04274887, started  transaction № 1, try №0
+[04.07.2022 23:56:07]BIC 04274887 wasn't found
+[04.07.2022 23:56:10]BusinessException=UiPath.Core.BusinessRuleException: BIC 04274887 wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 23:56:11]Processing 045773804, started  transaction № 2, try №0
+[04.07.2022 23:56:13]045773804 successfully  added
+[04.07.2022 23:56:13]Processing 045773804, finished transaction № 2, try №0
+[04.07.2022 23:56:14]Transaction Successful.
+[04.07.2022 23:56:15]Processing 045805722, started  transaction № 3, try №0
+[04.07.2022 23:56:18]045805722 excluded due to Entered year<2000, sEntered year=1995
+[04.07.2022 23:56:18]Processing 045805722, finished transaction № 3, try №0
+[04.07.2022 23:56:18]Transaction Successful.
+[04.07.2022 23:56:19]Processing 044525755, started  transaction № 4, try №0
+[04.07.2022 23:56:22]044525755 successfully  added
+[04.07.2022 23:56:22]Processing 044525755, finished transaction № 4, try №0
+[04.07.2022 23:56:23]Transaction Successful.
+[04.07.2022 23:56:24]Processing 044525776, started  transaction № 5, try №0
+[04.07.2022 23:56:26]044525776 successfully  added
+[04.07.2022 23:56:26]Processing 044525776, finished transaction № 5, try №0
+[04.07.2022 23:56:27]Transaction Successful.
+[04.07.2022 23:56:28]Processing 044525789, started  transaction № 6, try №0
+[04.07.2022 23:56:30]044525789 successfully  added
+[04.07.2022 23:56:30]Processing 044525789, finished transaction № 6, try №0
+[04.07.2022 23:56:31]Transaction Successful.
+[04.07.2022 23:56:32]Processing 044525857, started  transaction № 7, try №0
+[04.07.2022 23:56:34]044525857 successfully  added
+[04.07.2022 23:56:34]Processing 044525857, finished transaction № 7, try №0
+[04.07.2022 23:56:35]Transaction Successful.
+[04.07.2022 23:56:36]Processing 044525895, started  transaction № 8, try №0
+[04.07.2022 23:56:38]044525895 successfully  added
+[04.07.2022 23:56:38]Processing 044525895, finished transaction № 8, try №0
+[04.07.2022 23:56:39]Transaction Successful.
+[04.07.2022 23:56:39]Processing 044525957, started  transaction № 9, try №0
+[04.07.2022 23:56:42]044525957 successfully  added
+[04.07.2022 23:56:42]Processing 044525957, finished transaction № 9, try №0
+[04.07.2022 23:56:42]Transaction Successful.
+[04.07.2022 23:56:44]Processing 044525993, started  transaction № 10, try №0
+[04.07.2022 23:56:45]BIC 044525993 wasn't found
+[04.07.2022 23:56:48]BusinessException=UiPath.Core.BusinessRuleException: BIC 044525993 wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 23:56:49]Processing 04452539, started  transaction № 11, try №0
+[04.07.2022 23:56:50]BIC 04452539 wasn't found
+[04.07.2022 23:56:52]BusinessException=UiPath.Core.BusinessRuleException: BIC 04452539 wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 23:56:53]Processing 041012731, started  transaction № 12, try №0
+[04.07.2022 23:56:55]041012731 successfully  added
+[04.07.2022 23:56:55]Processing 041012731, finished transaction № 12, try №0
+[04.07.2022 23:56:57]Transaction Successful.
+[04.07.2022 23:56:58]Processing 042406780, started  transaction № 13, try №0
+[04.07.2022 23:56:59]BIC 042406780 wasn't found
+[04.07.2022 23:57:01]BusinessException=UiPath.Core.BusinessRuleException: BIC 042406780 wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 23:57:01]Processing 042618783, started  transaction № 14, try №0
+[04.07.2022 23:57:04]042618783 successfully  added
+[04.07.2022 23:57:04]Processing 042618783, finished transaction № 14, try №0
+[04.07.2022 23:57:04]Transaction Successful.
+[04.07.2022 23:57:06]Processing 042520700, started  transaction № 15, try №0
+[04.07.2022 23:57:08]042520700 successfully  added
+[04.07.2022 23:57:08]Processing 042520700, finished transaction № 15, try №0
+[04.07.2022 23:57:09]Transaction Successful.
+[04.07.2022 23:57:10]Processing 04870739, started  transaction № 16, try №0
+[04.07.2022 23:57:11]BIC 04870739 wasn't found
+[04.07.2022 23:57:13]BusinessException=UiPath.Core.BusinessRuleException: BIC 04870739 wasn't found
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+[04.07.2022 23:57:14]Processing 045805772, started  transaction № 17, try №0
+[04.07.2022 23:57:45]Exception.Source=Invoke ObtainDatafromBKIP workflow: Send Hotkey 'INPUT  ctl00_MainConten...', Exception.Message=No open windows found for 'chrome.exe'. Please check if the application is running.
+[04.07.2022 23:57:49]Processing 045805772, started  transaction № 17, try №1
+[04.07.2022 23:58:23]Exception.Source=Invoke ObtainDatafromBKIP workflow: Get Text  Name, Exception.Message=Could not find the UI element corresponding to this selector:
+<html app='chrome.exe' title='Поиск банка по БИК'/>
+<webctrl tag='TABLE'/>
+<webctrl rowName='Название*' tableCol='2' tag='TD'/>
+
+[04.07.2022 23:58:26]Processing 045805772, started  transaction № 17, try №2
+[04.07.2022 23:58:29]045805772 successfully  added
+[04.07.2022 23:58:29]Processing 045805772, finished transaction № 17, try №2
+[04.07.2022 23:58:30]Transaction Successful.
+[04.07.2022 23:58:31]Processing 044525300, started  transaction № 18, try №0
+[04.07.2022 23:58:33]044525300 successfully  added
+[04.07.2022 23:58:33]Processing 044525300, finished transaction № 18, try №0
+[04.07.2022 23:58:34]Transaction Successful.
+[04.07.2022 23:58:35]Processing 043083002, started  transaction № 19, try №0
+[04.07.2022 23:58:37]043083002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 23:58:37]Processing 043083002, finished transaction № 19, try №0
+[04.07.2022 23:58:38]Transaction Successful.
+[04.07.2022 23:58:39]Processing 044588002, started  transaction № 20, try №0
+[04.07.2022 23:58:41]044588002 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 23:58:41]Processing 044588002, finished transaction № 20, try №0
+[04.07.2022 23:58:43]Transaction Successful.
+[04.07.2022 23:58:43]Processing 044703000, started  transaction № 21, try №0
+[04.07.2022 23:58:46]044703000 excluded due to Entered year<2000, sEntered year=1994
+[04.07.2022 23:58:46]Processing 044703000, finished transaction № 21, try №0
+[04.07.2022 23:58:46]Transaction Successful.
+[04.07.2022 23:58:48]Total number of rows from XML=450, added BIC number=12, excluded BIC number=433, not found BIC number=5

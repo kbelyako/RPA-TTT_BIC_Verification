@@ -1,0 +1,14 @@
+{
+	 "sSourceDataURL":"https://www.cbr.ru/PSystem/payment_system/#a_44305",
+	 "sBKIP_URL":"https://bkip.ru/searchbic.aspx",
+	 "slogFileFullPath":"log.log",
+	 "sResultFilePath":"Data\\Result\\SummaryReport_BIC_&TimeStamp&.xlsx",
+	 "sExcelFileObtainedfromXMLPath":"Data\\Temp\\ObtainedFromXML_&TimeStamp&.xlsx",
+     "sExtractZIP_Path":"Data\\Temp\\XML",
+     "sExScreenshotsFolderPath":"Data\\SysExceptionScreens",
+     "iNotFoundBIC_Counter":"0",
+	 "sRobotName":"Test_Task_BIC_verifying",
+	 "sAdminEmailAddr":"TTRoboAdm@yandex.com",
+	 "sRobotEmailAddr":"TTRoboAdm@yandex.com",
+	 "sRobotEmailp":"RPAEngineerTaskJuly22!"
+}
